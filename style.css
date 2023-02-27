@@ -5,3 +5,6 @@ body {
 h1 {
   color: rgb(224, 103, 103);
 }
+p {
+  color: chartreuse;
+}
